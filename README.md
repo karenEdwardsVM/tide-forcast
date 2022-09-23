@@ -16,4 +16,6 @@ python3 tide-forcast.py
 ```
 
 You will see a printout of the tides after sunrise and before sunset for each city in the following formatting:
+```
 date  time  height
+```
