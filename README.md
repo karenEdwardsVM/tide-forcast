@@ -17,5 +17,10 @@ python3 tide-forcast.py
 
 You will see a printout of the tides after sunrise and before sunset for each city in the following formatting:
 ```
-date  time  height
+Wrightsville-Beach-North-Carolina:
+date: 2022-09-22 time: 11:28AM  height: 0.225540993599512
+date: 2022-09-23 time: 12:14PM  height: 0.173727522096922
+date: 2022-09-24 time:  1:00PM  height: 0.127
+date: 2022-09-25 time:  1:44PM  height: 0.08838768668089
+date: 2022-09-26 time:  2:28PM  height: 0.067052727826882
 ```
