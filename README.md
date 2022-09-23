@@ -8,9 +8,8 @@ This is code which pulls tide forcasts for the following cities:
 ```
 and uses https://www.tide-forecast.com/ to pull tide information for those cities.
 
-## Made with Python version 3, uses Beautiful Soup
-
 ### Install Instructions
+Made with Python version 3, uses Beautiful Soup
 ```
 pip3 install beautifulsoup4
 python3 tide-forcast.py
