@@ -1,10 +1,15 @@
+# Tide Forcast
+This is code which pulls tide forcasts for the following cities:
+  Half Moon Bay, California
+  Huntington Beach, California
+  Providence, Rhode Island
+  Wrightsville Beach, North Carolina 
+and uses https://www.tide-forecast.com/ to pull tide information for those cities
+
+## Made with Python version 3 and uses Beautiful soup.
+
+### Install Instructions
 ```
-This is code which pulls tide forcasts for 4 cities.
-This is made with Python version 3
-
-This code requires an install of Beautiful soup which is installed with:
 pip3 install beautifulsoup4
-
-run with:
-./tide-forcast.py
+python3 tide-forcast.py
 ```
